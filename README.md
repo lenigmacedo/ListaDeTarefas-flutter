@@ -1,6 +1,6 @@
 # lista_de_tarefas
 
-A new Flutter application.
+Lista de tarefas desenvolvida em Flutter
 
 ## Getting Started
 
