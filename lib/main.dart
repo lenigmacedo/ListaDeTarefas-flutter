@@ -5,12 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/services.dart';
 
-/*
-
-
-so teste
- */
-
 void main() => runApp(MaterialApp(
       theme: ThemeData(primaryColor: Colors.white),
       home: Home(),
