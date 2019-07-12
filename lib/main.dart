@@ -34,6 +34,7 @@ class _HomeState extends State<Home> {
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,
     ]);
+
     _readData().then((data) {
       setState(() {
         _toDoList = json.decode(data);
