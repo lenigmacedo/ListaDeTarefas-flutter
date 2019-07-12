@@ -1,10 +1,7 @@
 # lista_de_tarefas
 
-<<<<<<< HEAD
-A new Flutter application.
-=======
 Lista de tarefas desenvolvida em Flutter
->>>>>>> 45ba9e7ce429822eab6846eb8a7458e0e19ab969
+
 
 ## Getting Started
 
